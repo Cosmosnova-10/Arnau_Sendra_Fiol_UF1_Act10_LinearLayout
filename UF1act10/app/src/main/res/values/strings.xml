@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UF1act10</string>
+    <string name="Nom">Nom</string>
+    <string name="Cognom">Cognom</string>
+    <string name="Edat">Edat</string>
+    <string name="Usuari">Usuari</string>
+    <string name="Contrasenya">Contrasenya</string>
+    <string name="Enviar">Enviar</string>
+</resources>
